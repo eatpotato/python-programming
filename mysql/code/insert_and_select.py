@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+
 import pymysql
 
 if __name__ == '__main__':
