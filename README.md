@@ -7,4 +7,4 @@ pastedeploy:&emsp;&emsp;使用PasteDeploy定制WSGI服务
 eventlet:&emsp;&emsp;使用eventlet来启动WSGI服务  
 router:&emsp;&emsp;使用router根据 http url把请求映射到具体的方法  
 pexpect:&emsp;&emsp;使用pexpect实现ssh自动登录  
-
+oslo_config:&emsp;&emsp;使用oslo_config从命令行或者配置文件读取配置并解析  
