@@ -11,3 +11,4 @@ oslo_config:&emsp;&emsp;使用oslo_config从命令行或者配置文件读取配
 ftp:&emsp;&emsp;使用python访问FTP  
 stack:&emsp;&emsp;使用python实现自定义栈  
 argparse:&emsp;&emsp;命令行选项与参数解析  
+subprocess:&emsp;&emsp;在程序中运行其他程序或shell  
