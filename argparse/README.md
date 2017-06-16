@@ -2,8 +2,8 @@
 
 Examples:
 
-git:(master) ✗ python parse_params.py -t -s test -c test1 -a a -a b
-simple_value     = test
-constant_value   = test1
-boolean_switch   = True
-collection       = ['a', 'b']
+git:(master) ✗ python parse_params.py -t -s test -c test1 -a a -a b  
+simple_value     = test  
+constant_value   = test1  
+boolean_switch   = True  
+collection       = ['a', 'b']  
